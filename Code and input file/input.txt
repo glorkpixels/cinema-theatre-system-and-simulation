@@ -1,0 +1,107 @@
+addStar;Tim Robbins;16/10/1958;California/USA
+addStar;Morgan Freeman;01/06/1937;Tennessee/USA
+addStar;Bob Gunton;15/11/1945;California/USA
+addStar;Christian Bale;30/01/1974;Wales/UK
+addStar;Heath Ledger;04/04/1979;Australia
+addStar;Leonardo DiCaprio;11/11/1974;California/USA
+addStar;Joseph Gordon;Levitt;17/02/1974;California/USA
+addStar;Ellen Page;21/02/1987;Canada
+addStar;Jodie Foster;19/11/1962;California/USA
+addStar;Anthony Hopkins;31/12/1937;Wales/UK
+addStar;Sally Hawkins;27/04/1976;England/UK
+addStar;Octavia Spencer;25/05/1972;Alabama/USA
+addDirector;Frank Darabont;28/01/1959;France
+addDirector;Christopher Nolan;30/07/1970;England/UK
+addDirector;Jonathan Demme;22/02/1944;New York/USA
+addDirector;Guillermo del Toro;09/10/1964;Mexico
+addMovie;The Shawshank Redemption;Crime/Drama;144;1;1;2;3
+addMovie;The Dark Knight;Action/Crime;154;2;4;5
+addMovie;Inception;Action/Adventure;148;2;6;7;8
+addMovie;The Silence of the Lambs;Crime/Drama;118;3;9;10
+addMovie;The Shape of Water;Adventure;123;4;11;12
+updateSaloon;s1;4
+updateSaloon;s2;2
+updateSaloon;s3;1
+updateShowtime;s1;morning;10
+updateShowtime;s1;noon;13
+updateShowtime;s1;evening;16
+updateShowtime;s2;morning;10
+updateShowtime;s2;noon;14
+updateShowtime;s2;evening;18
+updateShowtime;s3;morning;10
+updateShowtime;s3;noon;15
+updateShowtime;s3;evening;20
+sellTicket;s1;morning;C3;student
+sellTicket;s1;noon;C4;student
+sellTicket;s1;morning;E2;student
+sellTicket;s1;morning;D5;student
+sellTicket;s3;evening;E3;regular
+sellTicket;s3;morning;B1;regular
+sellTicket;s3;noon;E2;regular
+sellTicket;s3;evening;D2;regular
+sellTicket;s3;evening;B1;student
+sellTicket;s3;noon;B1;regular
+sellTicket;s3;noon;B3;regular
+sellTicket;s1;evening;E1;student
+sellTicket;s1;morning;B1;regular
+sellTicket;s1;noon;E3;student
+sellTicket;s1;morning;C4;regular
+sellTicket;s1;morning;A2;regular
+sellTicket;s1;noon;D5;student
+sellTicket;s1;morning;D1;regular
+sellTicket;s1;noon;B1;regular
+sellTicket;s1;evening;C3;student
+sellTicket;s1;morning;C4;regular
+sellTicket;s2;morning;D2;regular
+sellTicket;s2;noon;B1;regular
+sellTicket;s1;evening;B2;regular
+sellTicket;s1;morning;D5;student
+sellTicket;s1;evening;D1;student
+sellTicket;s1;noon;B1;regular
+sellTicket;s1;noon;E3;student
+sellTicket;s1;evening;C4;regular
+sellTicket;s1;morning;A2;regular
+sellTicket;s1;evening;D5;student
+sellTicket;s1;evening;D1;student
+sellTicket;s1;morning;B1;regular
+sellTicket;s2;evening;A3;student
+sellTicket;s2;noon;D1;student
+sellTicket;s2;noon;E2;regular
+sellTicket;s3;noon;E3;regular
+sellTicket;s3;evening;C4;student
+sellTicket;s3;morning;A2;regular
+sellTicket;s3;morning;B3;regular
+sellTicket;s3;noon;D1;regular
+cancelTicket;s3;noon;E3
+sellTicket;s3;morning;B5;regular
+sellTicket;s2;evening;D2;regular
+sellTicket;s2;evening;E1;student
+sellTicket;s2;noon;B1;regular
+sellTicket;s2;noon;E3;regular
+cancelTicket;s3;noon;D1
+sellTicket;s2;evening;A4;regular
+sellTicket;s2;morning;E4;srudent
+sellTicket;s2;morning;C3;student
+sellTicket;s2;evening;C3;student
+sellTicket;s2;morning;C4;student
+sellTicket;s2;evening;B2;regular
+sellTicket;s2;noon;D5;regular
+sellTicket;s2;morning;D1;student
+cancelTicket;s2;morning;C3
+sellTicket;s2;evening;C3;regular
+sellTicket;s3;evening;A4;regular
+sellTicket;s3;evening;E4;regular
+sellTicket;s3;noon;C3;regular
+sellTicket;s3;evening;D2;regular
+sellTicket;s3;noon;D5;regular
+sellTicket;s3;noon;E1;student
+sellTicket;s3;evening;C3;regular
+sellTicket;s2;noon;E3;student
+sellTicket;s1;morning;C4;regular
+sellTicket;s1;evening;B2;regular
+sellTicket;s2;evening;C4;student
+sellTicket;s2;morning;A2;regular
+sellTicket;s2;morning;D5;student
+sellTicket;s2;noon;D1;student
+sellTicket;s2;morning;B1;regular
+endTheDay
